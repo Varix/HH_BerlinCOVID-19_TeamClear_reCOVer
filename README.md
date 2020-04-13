@@ -27,3 +27,5 @@ Test results and recorded symptoms can be released to medical health professiona
 
 
 Team - Harmony Pilobello, Wes Wilson, prabitha urwyler, Tillmann Nett, Diego Moncayo, Dan Brody, kamal kannan, Clodagh durkan
+
+Link to information site --> https://clear-3f5b6.web.app/main
